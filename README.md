@@ -1,6 +1,6 @@
 ![Snake animation](https://github.com/r1cardoPereira/r1cardoPereira/blob/output/github-contribution-grid-snake.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?r1cardoPereira=anuraghazra&show_icons=true&theme=transparent)
+
 
 
 
