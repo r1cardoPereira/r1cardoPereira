@@ -1,7 +1,17 @@
 ![Snake animation](https://github.com/r1cardoPereira/r1cardoPereira/blob/output/github-contribution-grid-snake.svg)
 
 
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?r1cardoPereira=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?ricardoPereira=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?r1cardoPereira=anuraghazra&show_icons=true" />
+</picture>
 
 
 # Olá, me chamo José Ricardo ! 
