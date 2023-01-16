@@ -1,10 +1,6 @@
 ![Snake animation](https://github.com/r1cardoPereira/r1cardoPereira/blob/output/github-contribution-grid-snake.svg)
 
-<div>
-<a href="https://github.com/r1cardoPereira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1cardoPereira&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=r1cardoPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?r1cardoPereira=anuraghazra&show_icons=true&theme=transparent)
 
 
 
