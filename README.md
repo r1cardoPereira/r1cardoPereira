@@ -11,7 +11,7 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=r1cardoPereira&show_icons=true" />
-<img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1cardoPereira0&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1cardoPereira0&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;">
 </picture>
 
 
