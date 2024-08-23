@@ -17,10 +17,7 @@
 
 # Olá, me chamo José Ricardo ! 
 ## Bem vindo ao meu perfil GitHub 👋
-
-
-Após mais de 10 anos atuando na área como Técnico de Manutenção e Técnico de eletrônica , me apaixonei pela área de tecnologia e estou em fase de transição de carreira. 
-Em busca de um desenvolvimento de qualidade tenho focado meus estudos em Lógica de programação, Java, Java WEB, Spring-Boot, MySQL, Cloud AWS.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r1cardopereira&layout=compact)](https://github.com/r1cardopereira/Consulta_CEP)
 
 ## Ferramentas e Tecnologias
 
