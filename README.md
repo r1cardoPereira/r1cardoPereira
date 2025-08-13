@@ -1,5 +1,5 @@
 <!-- Banner ou frase de impacto -->
-<h1 align="center">👋 Olá! Eu sou o José Ricardo</h1>
+<h1 align="center">👋 Olá! Eu sou o Ricardo</h1>
 <h3 align="center">💻 Desenvolvedor Back-End | 🚀 Foco em Bancos e Fintechs</h3>
 
 <p align="center">
