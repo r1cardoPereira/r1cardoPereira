@@ -1,22 +1,22 @@
 # README.md
 
-<!-- Banner ou frase de impacto -->
+<!-- Banner Minimalista e Estável -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Ricardo%20Pereira&fontSize=70&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Ricardo+Pereira;Desenvolvedor+Backend;Especialista+em+Automa%C3%A7%C3%A3o+SalesOps" alt="Typing SVG" />
   
-  <h3>🚀 Backend Engineer | Automation Architect</h3>
+  <h3>🚀 Engenheiro de Software | Especialista em Automação & Arquitetura</h3>
   
   <p align="center">
-    Engenheiro de Software focado na construção de ecossistemas robustos, 
-    especialista em arquiteturas escaláveis, segurança em nuvem e automação de processos críticos.
+    Focado na construção de ecossistemas robustos, 
+    escaláveis e integrados ao ecossistema <b>AWS</b> e <b>Salesforce</b>.
   </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/r1cardopereira" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:ricardo.pereira_jr@outlook.com">
-      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+      <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white">
     </a>
   </p>
 </div>
@@ -24,65 +24,52 @@
 ---
 
 ## 🏦 Sobre Mim
-Atualmente, orquestro automações de missão crítica no setor de **SalesOps**, gerenciando monorepos que integram dados de alta complexidade entre CRMs (Salesforce), Data Warehouses (Redshift) e plataformas de Cloud (AWS).
+Atualmente, orquestro automações de missão crítica no time de **Automação e Integração de Sistemas**, gerenciando monorepos que integram dados de alta complexidade entre **Salesforce**, **Redshift**, **Zendesk** e **AWS**.
 
-Meu foco atual é a transição para o **Plataforma**, aplicando padrões de segurança rigorosos, microsserviços resilientes e arquitetura limpa (Clean Architecture) para processamento financeiro e integração de APIs de alta performance.
-
----
-
-## 🛠️ Tecnologias & Ecossistema
-
-### **Core Backend & Data**
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white"/>
-</div>
-
-### **Cloud & DevOps (Produção)**
-<div align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-</div>
-
-### **Integrations & Orchestration**
-<div align="left">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-</div>
+Minha atuação é focada em transformar processos manuais em fluxos de dados resilientes, utilizando **Python** e padrões de **Arquitetura Limpa (Clean Architecture)**. Tenho como objetivo o setor bancário/financeiro, aplicando segurança de nível enterprise e alta performance.
 
 ---
 
-## 📐 Expertise Técnica Aplicada
-Baseado em meus projetos recentes, aplico rigorosamente:
-- **Clean Architecture & SOLID**: Separação clara entre controladores, serviços e camadas de infraestrutura.
-- **Resiliência de APIs**: Implementação de padrões de *Retry* (Tenacity), *Circuit Breakers* e tratamento de *Rate Limits*.
-- **Segurança Cloud Native**: Autenticação via **AWS IRSA (IAM Roles for Service Accounts)** eliminando credenciais estáticas.
-- **Enriquecimento de Dados**: Integração com APIs externas (CNPJ.ws, Google Workspace) para saneamento de bases de dados.
-- **High Volume Processing**: Processamento massivo de arquivos Excel e integração com Data Lakes (Athena/Redshift).
+## 🛠️ Tecnologias & Skills
+
+### **Linguagens & Frameworks**
+- **Python** (Pandas, Pydantic, Tenacity, Pytest)
+- **Java** (Spring Boot - Atualmente Reforçando)
+- **Go** (Explorando para serviços de alta performance)
+
+### **Infraestrutura & Cloud**
+- **AWS** (EKS, IAM/IRSA, Redshift, S3, Athena)
+- **Docker & Kubernetes** (Deployment de automações escaláveis)
+- **Supabase** (Persistência de estado, Cache e Auditoria)
+
+### **Ecossistema de Integração**
+- **Salesforce** (Especialista em APIs e fluxos B2B)
+- **n8n & ClickUp** (Orquestração de pipelines e Webhooks)
+- **Slack API** (Observabilidade e Alertas estruturados)
 
 ---
 
-## 📈 Estatísticas
+## 📐 Diferenciais Técnicos
+- **Clean Architecture & SoC**: Código modular, testável e de fácil manutenção.
+- **Resiliência**: Implementação nativa de retries, tratamento de erros e auditoria de status.
+- **Cloud Native Security**: Uso de **AWS IRSA** para acesso seguro a recursos de nuvem sem chaves estáticas.
+- **Data Engineering**: Processamento massivo de arquivos (.xlsx) e integração direta com Data Warehouses.
+
+---
+
+## 📊 Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r1cardoPereira&show_icons=true&theme=dark&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1cardoPereira&layout=compact&langs_count=7&theme=dark&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=r1cardoPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1cardoPereira&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-## 🚀 Foco no Momento
-- 🏗️ **Architectural Refactoring**: Migrando sistemas legados para padrões modernos de desacoplamento e mensageria.
-- 🦀 **Exploring New Frontiers**: Aprofundando em **Golang** e **Rust** para serviços de alta performance.
+## 🚀 Foco Atual
+- 🔄 **Refatoração de Legado**: Aplicando **SOLID** e design patterns em automações core.
+- ☁️ **Serverless & Go**: Expandindo o stack para arquiteturas orientadas a eventos.
 
 <div align="center">
-  <i>"Qualidade de código não é um diferencial, é um requisito para sistemas que não podem falhar."</i>
+  <i>"Eficiência não é fazer rápido, é fazer para que não precise ser refeito."</i>
 </div>
